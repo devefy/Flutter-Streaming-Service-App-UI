@@ -1,6 +1,6 @@
 # Flutter-Streaming-Searvice-App-UI
 
-A new Flutter project.
+![](assets/images/preview.png)
 
 ## Getting Started
 
