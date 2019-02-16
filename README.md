@@ -2,7 +2,7 @@
 
 ![](assets/images/preview.png)
 
-Watch the Video on Youtube - [Youtube](https://flutter.io/docs/get-started/codelab)
+Watch the Video on Youtube - [Youtube](https://youtu.be/ivHoUxoyIQw)
 
 ### :heart: Found this project useful?
 
