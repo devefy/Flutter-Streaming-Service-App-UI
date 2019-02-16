@@ -1,4 +1,4 @@
-# Flutter-Streaming-Searvice-App-UI
+# Flutter-Streaming-Service-App-UI
 
 ![](assets/images/preview.png)
 
