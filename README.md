@@ -2,6 +2,12 @@
 
 ![](assets/images/preview.png)
 
+Watch the Video on Youtube - [Youtube](https://flutter.io/docs/get-started/codelab)
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
