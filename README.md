@@ -1,4 +1,4 @@
-# streaming
+# Flutter-Streaming-Searvice-App-UI
 
 A new Flutter project.
 
