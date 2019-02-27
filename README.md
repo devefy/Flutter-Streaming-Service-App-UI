@@ -1,6 +1,6 @@
 # Flutter-Streaming-Service-App-UI
 
-![](assets/images/preview.jpg)
+![](assets/images/preview.png)
 
 Watch the Video on Youtube - [Youtube Video](https://youtu.be/ivHoUxoyIQw)
 
